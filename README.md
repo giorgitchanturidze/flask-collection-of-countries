@@ -13,3 +13,7 @@ Optionally, you can set FLASK_ENV to development, which puts Flask in debug mode
 ```bash
 export FLASK_ENV=development
 ```
+## With all the environment variables ready, you can now start the Flask development server by calling flask run:
+```bash
+flask run
+```
