@@ -1,4 +1,4 @@
-# flask-colletion-of-countries
+# flask-collection-of-countries
 flask-colletion-of-countries
 
 ## You can try out this application by installing flask with pip:
